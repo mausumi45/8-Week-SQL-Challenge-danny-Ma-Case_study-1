@@ -8,8 +8,8 @@ Danny wants to use the data to answer a few simple questions about his customers
 # Entity Relationship Diagram
 ![Danny's Diner](https://user-images.githubusercontent.com/98810351/206830864-ac1c1855-d881-4dc0-b6b5-e1c22be3365b.png)
 # Case Study Questions
-1.What is the total amount each customer spent at the restaurant?
-2.How many days has each customer visited the restaurant?
+1. What is the total amount each customer spent at the restaurant?
+2. How many days has each customer visited the restaurant?
 3.What was the first item from the menu purchased by each customer?
 4.What is the most purchased item on the menu and how many times was it purchased by all customers?
 5.Which item was the most popular for each customer?
