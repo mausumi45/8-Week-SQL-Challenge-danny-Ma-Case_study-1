@@ -5,6 +5,6 @@ Danny wants to use the data to answer a few simple questions about his customers
 1.sales
 2.menu
 3.members
-#Entity Relationship Diagram
+# Entity Relationship Diagram
 ![Danny's Diner](https://user-images.githubusercontent.com/98810351/206830864-ac1c1855-d881-4dc0-b6b5-e1c22be3365b.png)
 
