@@ -6,3 +6,4 @@ Danny wants to use the data to answer a few simple questions about his customers
 2.menu
 3.members
 #Entity Relationship Diagram
+![download (1)](https://user-images.githubusercontent.com/98810351/206830680-651b6a9a-c8b0-4162-9eb0-8eb27231652c.png)
